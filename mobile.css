@@ -51,7 +51,7 @@ nav img{
 }
 .m-h-one {
     font-size: 4rem;
-    width: 35%;
+    width: 30%;
     
 }
 .m-h-one > h1 {
@@ -72,7 +72,7 @@ h1 span {
     margin-left: 43%;
 }
 .m-heading-two {
-    border: 1px solid;
+    
 }
 button {
     margin-left: 60%;
@@ -100,5 +100,5 @@ button {
 }
 .m-social {
     padding: 0;
-    padding-left: 10px;
+    /* padding-left: 10px; */
 }
