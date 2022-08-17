@@ -50,7 +50,7 @@ nav img{
 }
 .m-h-one {
     font-size: 4.5rem;
-    width: 19%;
+    width: 18%;
     
 }
 .m-h-one > h1 {
@@ -62,8 +62,9 @@ h1 span {
 }
 .m-heading {
     justify-content: start;
-    margin-left: 3%;
+    margin-left: 5%;
     margin-right: 8%;
+    width: 75%;
 }
 .m-heading-two p {
     margin-top: 90%;
@@ -85,7 +86,7 @@ button {
 .arrow {
     position: absolute;
     top: 10%;
-    right: 5%;
+    right: 6%;
 } 
 .line {
     position: absolute;
