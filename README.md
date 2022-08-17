@@ -1,6 +1,6 @@
-### Monstero landing page
+### Dance landing page
 ----
-A simple landing page for Monstero application website
+A simple landing page for Dance landing page website
 
 ![Build with -](https://img.shields.io/badge/Build%20with-HTML%26CSS-orange) ![Time taken](https://img.shields.io/badge/Time%20Taken-04%20hrs%20%2035%20mins-blue) [![Project demo](https://img.shields.io/badge/Live%20Demo-Click%20me-success)](https://dancec101.netlify.app/ "project demo")[![Project author](https://img.shields.io/badge/Author-Ngamlenmang%20Touthang-9cf)](https://github.com/MTouthang/ "MTouthang")
 
