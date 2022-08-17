@@ -62,7 +62,7 @@ h1 span {
     color: #000;
 }
 .m-heading {
-    border: 1px solid;
+  
     justify-content: start;
     margin-left: 5%;
     margin-right: 8%;
@@ -92,7 +92,7 @@ button {
 .line {
     position: absolute;
     top: 50%;
-    left: 25%;
+    left: 26%;
 }
 .m-typo-right ul li{
    margin-left: 30%;
