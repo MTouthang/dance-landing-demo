@@ -29,6 +29,7 @@ nav img{
 .toggle {
     display: block;
    
+   
 }
 .h-dash{
     display: none;
@@ -45,7 +46,7 @@ nav img{
 
 .props > img {
     width: 350px;
-    margin-left: 10%;
+    margin-left: 13%;
     padding-bottom: 6%;
 }
 .m-h-one {
@@ -54,7 +55,7 @@ nav img{
     
 }
 .m-h-one > h1 {
-    line-height: 80px;
+    line-height: 90px;
 }
 h1 span {
     padding-left: 50%;
@@ -64,7 +65,7 @@ h1 span {
     justify-content: start;
     margin-left: 5%;
     margin-right: 8%;
-    width: 75%;
+    width: 65%;
 }
 .m-heading-two p {
     margin-top: 90%;
