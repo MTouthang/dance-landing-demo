@@ -78,18 +78,19 @@ button {
 }
 .m-typo {
     margin: 0 10%;
+    position: relative;
     flex-direction: column-reverse;
     padding-left: 5%;
 }
 .arrow {
     position: absolute;
-    top: 135%;
-    right: 10%;
+    top: 10%;
+    right: 5%;
 } 
 .line {
     position: absolute;
-    top: 168%;
-    left: 30.6%;
+    top: 53%;
+    left: 26%;
 }
 .m-typo-right ul li{
    margin-left: 30%;
