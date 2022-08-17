@@ -50,8 +50,8 @@ nav img{
     padding-bottom: 6%;
 }
 .m-h-one {
-    font-size: 4.5rem;
-    width: 18%;
+    font-size: 4rem;
+    width: 35%;
     
 }
 .m-h-one > h1 {
@@ -72,7 +72,7 @@ h1 span {
     margin-left: 43%;
 }
 .m-heading-two {
-    padding: 0;
+    border: 1px solid;
 }
 button {
     margin-left: 60%;
@@ -97,4 +97,8 @@ button {
 .m-typo-right ul li{
    margin-left: 30%;
    width: 50%;
+}
+.m-social {
+    padding: 0;
+    padding-left: 10px;
 }
