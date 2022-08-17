@@ -62,18 +62,18 @@ h1 span {
     color: #000;
 }
 .m-heading {
+    border: 1px solid;
     justify-content: start;
     margin-left: 5%;
     margin-right: 8%;
-    width: 65%;
+    width: 45%;
 }
 .m-heading-two p {
+    padding-top: 20%;
     margin-top: 90%;
     margin-left: 43%;
 }
-.m-heading-two {
-    
-}
+
 button {
     margin-left: 60%;
     border: none;
@@ -91,8 +91,8 @@ button {
 } 
 .line {
     position: absolute;
-    top: 53%;
-    left: 26%;
+    top: 50%;
+    left: 25%;
 }
 .m-typo-right ul li{
    margin-left: 30%;
@@ -100,5 +100,5 @@ button {
 }
 .m-social {
     padding: 0;
-    /* padding-left: 10px; */
+    
 }
