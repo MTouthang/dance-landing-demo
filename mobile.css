@@ -1,0 +1,97 @@
+body {
+    background-image: none;
+    background-position: 0;
+}
+main {
+    margin: 0;
+}
+header {
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+.props {
+    display: block;
+    height: 80vh;
+    width: 145%;
+    overflow: hidden;
+}
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2% 6%;
+    padding: 0;
+    
+}
+nav img{
+    width: 90px;
+    padding: 0;
+}
+.toggle {
+    display: block;
+   
+}
+.h-dash{
+    display: none;
+}
+.nav-item {
+    display: none;
+}
+.props {
+   
+    width: 88%;
+    height: 100%;
+    margin: 0 6%;
+}
+
+.props > img {
+    width: 350px;
+    margin-left: 10%;
+    padding-bottom: 6%;
+}
+.m-h-one {
+    font-size: 4.5rem;
+    width: 19%;
+    
+}
+.m-h-one > h1 {
+    line-height: 80px;
+}
+h1 span {
+    padding-left: 50%;
+    color: #000;
+}
+.m-heading {
+    justify-content: start;
+    margin-left: 3%;
+    margin-right: 8%;
+}
+.m-heading-two p {
+    margin-top: 90%;
+    margin-left: 43%;
+}
+.m-heading-two {
+    padding: 0;
+}
+button {
+    margin-left: 60%;
+    border: none;
+}
+.m-typo {
+    margin: 0 10%;
+    flex-direction: column-reverse;
+    padding-left: 5%;
+}
+.arrow {
+    position: absolute;
+    top: 135%;
+    right: 10%;
+} 
+.line {
+    position: absolute;
+    top: 168%;
+    left: 30.6%;
+}
+.m-typo-right ul li{
+   margin-left: 30%;
+   width: 50%;
+}
