@@ -17,7 +17,7 @@ A simple landing page for Monstero application website
 ![css](https://img.shields.io/badge/text--decoration--color-specific%20color%20for%20text%20and%20the%20decoration-lightgrey)
 
 ### ScreenShot
-![Project screenshot](./thumbnail.png)
+![Project screenshot](./thumbnail.PNG)
 
 
 *--------------------------------------------- Feel free to fork and play around ----------------------------------------*
