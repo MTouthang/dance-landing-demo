@@ -28,17 +28,23 @@ nav img{
 }
 .toggle {
     display: block;
-   
-   
+    cursor: pointer;
 }
 .h-dash{
     display: none;
 }
-.nav-item {
+.nav-items {
     display: none;
+    padding: 10px 10px;
+    background-color: #fff;
+}
+.menu:focus .nav-items {
+    display: block;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
 }
 .props {
-   
     width: 88%;
     height: 100%;
     margin: 0 6%;
@@ -100,5 +106,4 @@ button {
 }
 .m-social {
     padding: 0;
-    
 }
